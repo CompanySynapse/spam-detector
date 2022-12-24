@@ -12,3 +12,10 @@ The following is an example of using the **Python** requests library to send a H
 import requests
 print(requests.get('[API-LINK-HERE]/isspam/<email-contents>').text)
 ```
+### JavaScript
+The following is an example of using the **JavaScript** fetch function to send a HTTP GET request to our API:
+```
+fetch('[API-LINK-HERE]/isspam/<email-contents>')
+  .then(response => response.json())
+  .then(data => console.log(data))
+```
