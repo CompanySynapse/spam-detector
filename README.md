@@ -1,0 +1,2 @@
+# SpamRadar-v1-Rev1
+Spam Radar is a machine learning tool that analyzes the content of an email or message to determine whether it is likely to be spam or not. It uses advanced algorithms and natural language processing techniques to analyze the input text and return a probability score indicating the likelihood that the email or message is spam. The API only allows users to input the email's content and does not consider any associated metadata such as sender, recipient, or subject line, although it may be added in a furute revision.
