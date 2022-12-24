@@ -21,4 +21,4 @@ fetch('[API-LINK-HERE]/isspam/<email-contents>')
 ```
 
 ## Product
-The product has 2 versions. It can be used purely through the API, or with the program itself (it's private at the moment, contact me at <email> if you want to buy it, although nobody will). With the API version, you can input only the email contents. With the program, you can set custom safety levels, which can go from 0.5 (Remove anythin with a chance of being spam) to 0.95 (Remove anythin that is 100% spam) or anywhere inbetween for custom levels of safety.
+The product has 2 versions. It can be used purely through the **API**, or with the program itself (it's private at the moment, contact me at *<email>* if you want to buy it, although nobody will). With the **API** version, you can input only the email contents. With the program, you can set custom safety levels, which can go from 0.5 (Remove anythin with a chance of being spam) to 0.95 (Remove anythin that is 100% spam) or anywhere inbetween for custom levels of safety.
