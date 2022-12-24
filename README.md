@@ -19,3 +19,6 @@ fetch('[API-LINK-HERE]/isspam/<email-contents>')
   .then(response => response.json())
   .then(data => console.log(data))
 ```
+
+## Product
+I am selling the product for $100, but the associated API is free to use. The API allows users to access the functionality of the product and integrate it into their own projects and systems. It is available for use at no cost and does not require any additional fees or subscriptions. Customers who purchase the product will have full access to the model and program itself and can use it to enhance their experience with emails/enhance the experience of their customers. With the paid version of the product, you can set a custom safety level, which can go from 0.5 (Block any emails that have any *slight* chance of being spam) to 1 (Block emails with a 100% chance of being spam), or any level inbetween. Whether you are using the product on its own or in conjunction with the API, you can be confident that you are getting a high-quality and reliable solution.
