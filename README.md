@@ -7,6 +7,7 @@
 
 ## API Examples
 ### Python
+The following is an example of using the **Python** requests library to send a HTTP GET request to our API:
 ``` 
 import requests
 print(requests.get('[API-LINK-HERE]/isspam/<email-contents>').text)
