@@ -6,7 +6,7 @@ This script uses TensorFlow 3.0 to train a machine learning model for spam detec
 - Python 3.x
 
 # Dataset
-The provided dataset is a collection of SMS messages labeled as spam or not spam. It can be found in the data folder. All of the used data can be found [here] (https://www.kaggle.com/datasets/bagavathypriya/spam-ham-dataset)
+The provided dataset is a collection of SMS messages labeled as spam or not spam. It can be found in the data folder. All of the used data can be found [here](https://www.kaggle.com/datasets/bagavathypriya/spam-ham-dataset)
 
 # Model
 The model uses a combination of natural language processing techniques and machine learning to classify the text input as spam 'ham'. The model cannot be fine-tuned with additional data and re-training.
